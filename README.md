@@ -1,6 +1,6 @@
-# Main Download 🛡️
 
-# What does this do???:
+# Metadata Spoofer, What Does It Do?:
+
 It searches for a string and replaces the hex value to 00 (deleting it entirely).
 the game will no longer be able to call the method, therefore **removing it entirely**
 --------------------------------------------------------------------------------------------
